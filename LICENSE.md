@@ -1,0 +1,1 @@
+This folder (except for [/Not mine/](/Not%20mine/)) © 2024 by [William M. Rock](https://new.reddit.com/user/Strong_Magician_3320) is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
