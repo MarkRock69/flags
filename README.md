@@ -3,6 +3,6 @@ This repository contains flags I have gathered over time or designed myself. Som
 
 No AI whatsoever was used to create, or assist with creating, any flag in this repository.
 
-[/Not Mine](/not-mine/) contains necessary [attributions](/not-mine/!attributions.md) for all the flags it contains.
+[not-mine](/not-mine/) contains necessary [attributions](/not-mine/!attributions.md) for all the flags it contains.
 
-Flags created by me are in [/My flags](/mine/) and are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Flags created by me are in [mine](/mine/) and are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
